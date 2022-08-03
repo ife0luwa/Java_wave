@@ -1,4 +1,4 @@
-package Java_Network_Programming.ServerClient;
+package Java_Network_Programming.TCP.ChatApplication.ServerClient;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package Java_Network_Programming;
+package Java_Network_Programming.TCP.ChatApplication;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

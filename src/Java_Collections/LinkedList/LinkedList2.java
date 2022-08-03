@@ -45,7 +45,7 @@ public class LinkedList2 {
         /* using an iterator */
         Iterator artistPick = artists.iterator();
         while(artistPick.hasNext()) {
-            System.out.println(CountdownColor.ANSI_PURPLE + artistPick.next());
+            System.out.println("hello" + CountdownColor.ANSI_PURPLE + artistPick.next());
         }
 
 

@@ -1,4 +1,6 @@
-package Java_Network_Programming.ServerClient;
+package Java_Network_Programming.TCP.ChatApplication;
+
+
 
 import java.io.IOException;
 import java.io.PrintWriter;

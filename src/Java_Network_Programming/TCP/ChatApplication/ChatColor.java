@@ -1,4 +1,4 @@
-package Java_Network_Programming.ServerClient;
+package Java_Network_Programming.TCP.ChatApplication;
 
 public class ChatColor {
     public static final String ANSI_RESET = "\u001B[0m";
